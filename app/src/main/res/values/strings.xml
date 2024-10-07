@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Quiz App</string>
+    <string name="quiz_app">Quiz App</string>
+    <string name="welcome">Welcome</string>
+    <string name="enter_your_name">Please Enter Your Name</string>
+    <string name="name">Name</string>
+    <string name="start">start</string>
+    <string name="question">What Country Flag is this</string>
+    <string name="image_flag">image_flag</string>
+    <string name="check">check</string>
+</resources>
